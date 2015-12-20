@@ -13,7 +13,7 @@ npm install && npm run build
 let modal = new EvilModal();
 modal.open('modal1');
 
-//Data will be accessible by this.data
+//Data will be accessible via this.data
 modal.open('modal1', {name: 'Alise'});
 
 //Promise
