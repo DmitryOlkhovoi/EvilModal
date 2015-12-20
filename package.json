@@ -1,0 +1,17 @@
+{
+  "name": "evilmodal",
+  "version": "0.0.1",
+  "description": "Homework project",
+  "main": "dist/evilModal.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "author": "Dmitry Olkhovoi <auuine@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
