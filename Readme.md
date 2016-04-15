@@ -1,4 +1,4 @@
-# VanillaModal
+# EvilModal
 **Modal without dependencies**
 
 ## How to build
